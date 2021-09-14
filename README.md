@@ -1,2 +1,3 @@
-# sdlc-framework
-Systems development life cycle process and guides
+# Systems development life cycle process and guides
+
+1. Information Gathering
